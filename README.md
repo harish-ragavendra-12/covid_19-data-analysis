@@ -223,5 +223,3 @@ python src/covid_analysis.py
 ## Author
 
 Harish Ragavendra
-
-Beginner Data Science Portfolio Project
